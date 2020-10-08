@@ -1,7 +1,7 @@
 module.exports = {
     env: {
         db_host: 'localhost',
-        db_user: 'root',
+        db_user: 'restaurantadmin',
         db_password: 'password',
         db_database: 'restaurentapp',
         db_connectionLimit: 100,
